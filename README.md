@@ -84,7 +84,7 @@ Use the sidebar toggle button for improved navigation on smaller screens.
 
 # Live Demo
 
-Check out the live deployment here: RBAC UI Demo
+Check out the live deployment here: https://rishithaannepu2003.github.io/Role-Based-Access-Control/
 
 # Future Enhancements
 • Integrate a backend service (e.g., Node.js, Express) for real-time CRUD operations.
